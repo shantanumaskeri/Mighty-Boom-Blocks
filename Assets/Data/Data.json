@@ -1,0 +1,13 @@
+{
+	"gameData": [
+		{
+			"brickFallingDelay" : 0.08,
+			"brickWidth" : 0.85,
+			"brickHeight" : 0.95,
+			"createBomb" : 6,
+			"createMissile" : 4,
+			"maximumShuffles" : 3,
+			"isCorruptBricksAllowed" : 0
+		}
+	]
+}
